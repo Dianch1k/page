@@ -9,6 +9,8 @@ header{
 .avatar {
     height: 300px;
     width: 300px;
+    margin-top: 30px;
+    border-radius: 8px;
 
 }
 .title_main {
@@ -40,6 +42,7 @@ main {
 .video iframe {
     width: 600px;
     height: 400px;
+    max-width: 600px;
 }
 .eduacation__table {
     margin: 0 auto;
